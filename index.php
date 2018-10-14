@@ -11,7 +11,7 @@
     <title>X-files</title>
 </head>
 <body>
-<h1>Ajouter des images</h1>
+<h1>BIBLIOTHÈQUE D'IMAGES</h1>
 
 <form action="upload.php" method="post" enctype="multipart/form-data">
     <label for='upload'>Fichier à ajouter</label>
